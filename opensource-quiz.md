@@ -1,6 +1,6 @@
 1. Which of the following is an open source software?
    - [ ] Google chrome
-   - [ ] VLC Media Player
+   - [x] VLC Media Player
    - [ ] Microsoft Word
    - [ ] Spotify Music Player
 
